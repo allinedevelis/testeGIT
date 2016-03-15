@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-    <title> Meu Site </title>
+    <title> Meu Site - Mudança de Título </title>
 </head>
 <body>
 	<h1>Meu Site</h1>
